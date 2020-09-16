@@ -1,5 +1,22 @@
                         HOW TO PLAY
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.  enter coordinates:
     eg. 1 1 or 2 2 or 3 2 or 1 2 etc.
     -------------------
