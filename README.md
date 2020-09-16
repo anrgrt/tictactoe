@@ -4,8 +4,10 @@
     eg. 1 1 or 2 2 or 3 2 or 1 2 etc.
 
 2.  if you enter 1 1 your move will be stored in bottom left corner
-    or if you enter 3 3 your move will be stored in top left corner
-    etc.
+    or if you enter 3 3 your move will be stored in top right corner
+    or if you enter 1 3 your move will be stored in top left corner
+    or if you enter 3 1 your move will be stored in bottom left corner etc
+    use you brain for other situations
 
 3.  game will end when someone wins or draw
 
